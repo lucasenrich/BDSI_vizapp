@@ -57,6 +57,6 @@ https://github.com/lucasenrich/BDSI_vizapp
 Future work is about:
 
 + Database management (PostGIS)
-+ Dockerize 
++ Dockerize
 
 
